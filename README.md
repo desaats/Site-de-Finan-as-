@@ -1,2 +1,2 @@
-# Site-de-Financas-
+# Financy
 Site para criação de relatórios financeiros 
